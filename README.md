@@ -1,2 +1,2 @@
 # T-Analyst
-Code Coming Soon!
+Code, documentation, and examples are coming soon!
